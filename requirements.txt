@@ -1,0 +1,11 @@
+numpy 
+pandas
+missingno
+matplotlib
+seaborn
+plotly
+scikit-learn
+fastapi
+joblib
+streamlit
+unicorn
